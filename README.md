@@ -12,6 +12,7 @@ This project explores product pricing trends across five major UK supermarkets  
 
 
 ## 🧩 Dataset
+The dataset utilised in this project (source)
 [https://www.kaggle.com/datasets/declanmcalinden/time-series-uk-supermarket-data](url)
 ------
 - 5 Excel/CSV files (one per supermarket)
