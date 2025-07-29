@@ -76,7 +76,9 @@ FROM RankedProducts
 WHERE rn = 1
 ORDER BY prices ASC;
 
-
+----Average price--------------
+SELECT ROUND(avg(prices), 2) AS 'ALDI AVERAGE PRICE'
+FROM Aldi_Table;
 
 -----aVERAGE PRICE of PRODUCTS OWNED BY ALDI----
 
