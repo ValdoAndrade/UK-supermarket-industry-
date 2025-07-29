@@ -12,7 +12,8 @@ This project explores product pricing trends across five major UK supermarkets  
 
 
 ## 🧩 Dataset
-
+[https://www.kaggle.com/datasets/declanmcalinden/time-series-uk-supermarket-data](url)
+------
 - 5 Excel/CSV files (one per supermarket)
 (Aldi, Tesco, Morrisons, Sainsbury's and Asda)
 - ~100,000 product entries
@@ -24,7 +25,6 @@ This project explores product pricing trends across five major UK supermarkets  
 ## 🛠️ Tools Used
 
 - SQL Server (SSMS) for storage, cleaning & analysis
-- 
 - Excel for initial data prep
 
 
@@ -75,6 +75,7 @@ SELECT
 FROM Tesco_Table
 GROUP BY category;
 ```
+
 
 ## Insights & Recomendations 
 Aldi is the supermarket with the lowest average product price at 2.34.In contrast, the other supermarkets have a average product price significantly higher.
