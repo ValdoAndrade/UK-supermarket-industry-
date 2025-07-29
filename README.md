@@ -79,17 +79,16 @@ GROUP BY category;
 
 
 ## Insights  
-Aldi is the supermarket with the lowest average product price at 2.34. In contrast, the other supermarkets have a average product price significantly higher.
-Own-brand products are cheaper across all the supermarkets, however ALDI is the only supermarket that the average own-brand price is higher than the average non-owned-brand price.
-The drinks are the the most expensive category across all supermarkets.
-The fresh food category is consistently a core own brand focus across all supermarkets. 
+- Aldi is the supermarket with the lowest average product price at 2.34. In contrast, the other supermarkets have a average product price significantly higher.
+- Own-brand products are cheaper across all the supermarkets, however ALDI is the only supermarket that the average own-brand price is higher than the average non-owned-brand price.
+- The drinks are the the most expensive category across all supermarkets.
+- The fresh food category is consistently a core own brand focus across all supermarkets. 
 
 ## Recomendations
-Aldi can aim to increase its own-brand penetration in the Home category by 10%. This would allow the supermarket to capture additional market share in a category where competitors like Tesco (25.4% own-brand penetration) and Sainsbury’s (13.9%) currently have a strong presence. Therefore, this measure would attract more customers and also compete with the other supermarkets that are currently present in this market. 
-The retailers should evaluate why drinks are the category that have the highest prices and implement promotional strategies to improve the competitiveness in this category.
-Also they could reevaluate their pack sizes in order to make the prices look more affordable.
-Supermarkets like Morrisons and Sainsburys should promote more often their own brands as they offer significant lower prices and can help to drive a better value perception amongst consumers.
-According to the findings ASDA and Morrisons should consider expand their own brand presence in HOME  because  TESCO has 25.425 of own-brand in Home and Sainsburys has 13.96%.
+- Aldi can aim to increase its own-brand penetration in the Home category by 10%. This would allow the supermarket to capture additional market share in a category where competitors like Tesco (25.4% own-brand penetration) and Sainsbury’s (13.9%) currently have a strong presence. Therefore, this measure would attract more customers and also compete with the other supermarkets that are currently present in this market. 
+- The retailers should evaluate why drinks are the category that have the highest prices and implement promotional strategies to improve the competitiveness in this category.Also they could reevaluate their pack sizes in order to make the prices look more affordable.
+- Supermarkets like Morrisons and Sainsburys should promote more often their own brands as they offer significant lower prices and can help to drive a better value perception amongst consumers.
+-According to the findings ASDA and Morrisons should consider expand their own brand presence in HOME  because  TESCO has 25.425 of own-brand in Home and Sainsburys has 13.96%.
 
 ## Conclusion
  This exploratory data analysis provided valuable insights into supermarket pricing strategies, own-brand product penetration, and category-level value positioning. Equally important, this analysis help retailers understand where they stand in terms of price, brand positioning, and value delivery across product categories.
