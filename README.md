@@ -77,6 +77,8 @@ GROUP BY category;
 ```
 
 ## Insights & Recomendations 
+Aldi is the supermarket with the lowest average product price at 2.34.In contrast, the other supermarkets have a average product price significantly higher.
+
 
 
 
@@ -88,4 +90,13 @@ GROUP BY category;
 
  
 ## How to use 
+1. **Start with the README**
+   - Read the README to understand the project
 
+2. **View the SQL Queries**
+   - Go to the `/queries/` folder or supermarket-specific folders to see the SQL scripts used to answer each business question.
+   - Each SQL file corresponds to a supermarket analysis 
+
+3. **Review the Findings**
+   - Check the **Insights & Recommendations** section in this README for a summary of key observations.
+   
